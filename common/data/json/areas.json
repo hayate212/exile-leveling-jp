@@ -2173,8 +2173,8 @@
   },
   "2_6_9": {
     "id": "2_6_9",
-    "name": "南の森",
-    "map_name": "南の森",
+    "name": "西ノ森",
+    "map_name": "西ノ森",
     "act": 6,
     "has_waypoint": true,
     "is_town_area": false,
