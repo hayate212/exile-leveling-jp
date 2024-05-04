@@ -238,8 +238,8 @@
   },
   "1_2_9": {
     "id": "1_2_9",
-    "name": "南の森",
-    "map_name": "南の森",
+    "name": "西の森",
+    "map_name": "西の森",
     "act": 2,
     "has_waypoint": true,
     "is_town_area": false,
