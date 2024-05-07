@@ -155,13 +155,27 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Project on Github"
+              label="Original Project on Github"
               expand={navExpand}
               icon={<FaGithub className={classNames("inlineIcon")} />}
               onClick={() => {
                 window
                   .open(
                     "https://github.com/HeartofPhos/exile-leveling",
+                    "_blank"
+                  )
+                  ?.focus();
+                setNavExpand(false);
+              }}
+            />
+            <NavbarItem
+              label="This Project on Github"
+              expand={navExpand}
+              icon={<FaGithub className={classNames("inlineIcon")} />}
+              onClick={() => {
+                window
+                  .open(
+                    "https://github.com/hayate212/exile-leveling-jp",
                     "_blank"
                   )
                   ?.focus();
