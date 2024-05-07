@@ -1,7 +1,7 @@
 {
   "a1q1": {
     "id": "a1q1",
-    "name": "Enemy at the Gate",
+    "name": "立ちふさがる敵",
     "act": "1",
     "reward_offers": {
       "a1q1": {
@@ -481,7 +481,7 @@
   },
   "a1q5": {
     "id": "a1q5",
-    "name": "Mercy Mission",
+    "name": "慈善活動",
     "act": "1",
     "reward_offers": {
       "a1q5": {
@@ -744,7 +744,7 @@
   },
   "a1q4": {
     "id": "a1q4",
-    "name": "Breaking Some Eggs",
+    "name": "卵の破壊",
     "act": "1",
     "reward_offers": {
       "a1q4": {
@@ -1136,7 +1136,7 @@
   },
   "a1q8": {
     "id": "a1q8",
-    "name": "A Dirty Job",
+    "name": "汚れ仕事",
     "act": "1",
     "reward_offers": {
       "a1q8": {
@@ -1152,7 +1152,7 @@
   },
   "a1q7": {
     "id": "a1q7",
-    "name": "The Dweller of the Deep",
+    "name": "海の住人",
     "act": "1",
     "reward_offers": {
       "a1q7": {
@@ -1168,7 +1168,7 @@
   },
   "a1q2": {
     "id": "a1q2",
-    "name": "The Caged Brute",
+    "name": "檻の中のけだもの",
     "act": "1",
     "reward_offers": {
       "a1q2b": {
@@ -1920,7 +1920,7 @@
   },
   "a1q6": {
     "id": "a1q6",
-    "name": "The Marooned Mariner",
+    "name": "取り残された水夫",
     "act": "1",
     "reward_offers": {
       "a1q6": {
@@ -1936,7 +1936,7 @@
   },
   "a1q3": {
     "id": "a1q3",
-    "name": "The Siren's Cadence",
+    "name": "セイレーンの歌声",
     "act": "1",
     "reward_offers": {
       "a1q3": {
@@ -2584,7 +2584,7 @@
   },
   "a1q9": {
     "id": "a1q9",
-    "name": "The Way Forward",
+    "name": "先に進むために",
     "act": "1",
     "reward_offers": {
       "a1q9": {
@@ -2600,13 +2600,13 @@
   },
   "a2q11": {
     "id": "a2q11",
-    "name": "The Way Forward",
+    "name": "先に進むために",
     "act": "2",
     "reward_offers": {}
   },
   "a2q5": {
     "id": "a2q5",
-    "name": "Through Sacred Ground",
+    "name": "聖なる地を通って",
     "act": "2",
     "reward_offers": {
       "a2q5": {
@@ -2622,7 +2622,7 @@
   },
   "a2q6": {
     "id": "a2q6",
-    "name": "Intruders in Black",
+    "name": "黒ずくめの侵入者",
     "act": "2",
     "reward_offers": {
       "a2q6": {
@@ -3040,7 +3040,7 @@
   },
   "a2q10": {
     "id": "a2q10",
-    "name": "The Great White Beast",
+    "name": "偉大なる白の獣",
     "act": "2",
     "reward_offers": {
       "a2q10": {
@@ -3077,7 +3077,7 @@
   },
   "a2q4": {
     "id": "a2q4",
-    "name": "Sharp and Cruel",
+    "name": "鋭利なものと残酷なもの",
     "act": "2",
     "reward_offers": {
       "a2q4": {
@@ -3545,7 +3545,7 @@
   },
   "a2q9": {
     "id": "a2q9",
-    "name": "The Root of the Problem",
+    "name": "問題の根元",
     "act": "2",
     "reward_offers": {
       "a2q9b_tencent": {
@@ -3626,7 +3626,7 @@
   },
   "a2q7": {
     "id": "a2q7",
-    "name": "Deal with the Bandits",
+    "name": "山賊との取引",
     "act": "2",
     "reward_offers": {
       "a2q7": {
@@ -3642,37 +3642,37 @@
   },
   "a2q1": {
     "id": "a2q1",
-    "name": "The Bandit Lord Kraityn",
+    "name": "山賊の長クレイティン",
     "act": "2",
     "reward_offers": {}
   },
   "a2q2": {
     "id": "a2q2",
-    "name": "The Bandit Lord Alira",
+    "name": "山賊の長アリーラ",
     "act": "2",
     "reward_offers": {}
   },
   "a2q3": {
     "id": "a2q3",
-    "name": "The Bandit Lord Oak",
+    "name": "山賊の長オーク",
     "act": "2",
     "reward_offers": {}
   },
   "a2q8": {
     "id": "a2q8",
-    "name": "Shadow of the Vaal",
+    "name": "ヴァールの影",
     "act": "2",
     "reward_offers": {}
   },
   "a2q8a3": {
     "id": "a2q8a3",
-    "name": "Shadow of the Vaal",
+    "name": "ヴァールの影",
     "act": "3",
     "reward_offers": {}
   },
   "a3q1": {
     "id": "a3q1",
-    "name": "Lost in Love",
+    "name": "愛に迷って",
     "act": "3",
     "reward_offers": {
       "a3q1": {
@@ -4199,7 +4199,7 @@
   },
   "a3q2": {
     "id": "a3q2",
-    "name": "Lost in Love",
+    "name": "愛に迷って",
     "act": "3",
     "reward_offers": {
       "a3q2": {
@@ -4215,7 +4215,7 @@
   },
   "a3q11": {
     "id": "a3q11",
-    "name": "Victario's Secrets",
+    "name": "ヴィクタリオの秘密",
     "act": "3",
     "reward_offers": {
       "a3q11": {
@@ -4231,13 +4231,13 @@
   },
   "a3q3": {
     "id": "a3q3",
-    "name": "The Gemling Queen",
+    "name": "ジェムリングの女王",
     "act": "3",
     "reward_offers": {}
   },
   "a3q4": {
     "id": "a3q4",
-    "name": "The Ribbon Spool",
+    "name": "リボンスプール",
     "act": "3",
     "reward_offers": {
       "a3q4": {
@@ -4262,7 +4262,7 @@
   },
   "a3q5": {
     "id": "a3q5",
-    "name": "Fiery Dust",
+    "name": "灼けつく粉末",
     "act": "3",
     "reward_offers": {
       "a3q5": {
@@ -4278,7 +4278,7 @@
   },
   "a3q8": {
     "id": "a3q8",
-    "name": "Sever the Right Hand",
+    "name": "腹心の部下を倒せ",
     "act": "3",
     "reward_offers": {
       "a3q8": {
@@ -5013,7 +5013,7 @@
   },
   "a3q12": {
     "id": "a3q12",
-    "name": "A Fixture of Fate",
+    "name": "運命の定め",
     "act": "3",
     "reward_offers": {
       "a3q12": {
@@ -6757,7 +6757,7 @@
   },
   "a3q13": {
     "id": "a3q13",
-    "name": "A Swig of Hope",
+    "name": "希望の一気飲み",
     "act": "3",
     "reward_offers": {
       "a3q13": {
@@ -6782,7 +6782,7 @@
   },
   "a3q9": {
     "id": "a3q9",
-    "name": "Piety's Pets",
+    "name": "パイエティのペット",
     "act": "3",
     "reward_offers": {
       "a3q9": {
@@ -6798,7 +6798,7 @@
   },
   "a3q10": {
     "id": "a3q10",
-    "name": "The Sceptre of God",
+    "name": "神の杖",
     "act": "3",
     "reward_offers": {}
   },
@@ -6836,7 +6836,7 @@
   },
   "a4q1": {
     "id": "a4q1",
-    "name": "The Eternal Nightmare",
+    "name": "永遠の悪夢",
     "act": "4",
     "reward_offers": {
       "a4q1": {
@@ -7271,7 +7271,7 @@
   },
   "a4q2": {
     "id": "a4q2",
-    "name": "Breaking the Seal",
+    "name": "封印の解除",
     "act": "4",
     "reward_offers": {
       "a4q2": {
@@ -7608,25 +7608,25 @@
   },
   "a4q3": {
     "id": "a4q3",
-    "name": "The King of Fury",
+    "name": "憤怒の王",
     "act": "4",
     "reward_offers": {}
   },
   "a4q4": {
     "id": "a4q4",
-    "name": "The King of Desire",
+    "name": "欲望の王",
     "act": "4",
     "reward_offers": {}
   },
   "a4q5": {
     "id": "a4q5",
-    "name": "Corpus Malachus",
+    "name": "マラカイの肉体",
     "act": "4",
     "reward_offers": {}
   },
   "a4q6": {
     "id": "a4q6",
-    "name": "An Indomitable Spirit",
+    "name": "不屈の魂",
     "act": "4",
     "reward_offers": {
       "a4q6": {
@@ -7667,13 +7667,13 @@
   },
   "a5q1a": {
     "id": "a5q1a",
-    "name": "Return to Oriath",
+    "name": "オリアスへの帰還",
     "act": "4",
     "reward_offers": {}
   },
   "a5q1b": {
     "id": "a5q1b",
-    "name": "Return to Oriath",
+    "name": "オリアスへの帰還",
     "act": "5",
     "reward_offers": {
       "a5q1b": {
@@ -7704,7 +7704,7 @@
   },
   "a5q2": {
     "id": "a5q2",
-    "name": "The Key to Freedom",
+    "name": "自由への鍵",
     "act": "5",
     "reward_offers": {
       "a5q2": {
@@ -7738,7 +7738,7 @@
   },
   "a5q3": {
     "id": "a5q3",
-    "name": "In Service to Science",
+    "name": "科学の発展のために",
     "act": "5",
     "reward_offers": {
       "a5q3": {
@@ -7754,7 +7754,7 @@
   },
   "a5q4": {
     "id": "a5q4",
-    "name": "Death to Purity",
+    "name": "浄化に死を",
     "act": "5",
     "reward_offers": {
       "a5q4": {
@@ -7779,7 +7779,7 @@
   },
   "a5q5": {
     "id": "a5q5",
-    "name": "The King's Feast",
+    "name": "王の饗宴",
     "act": "5",
     "reward_offers": {
       "a5q5": {
@@ -7956,13 +7956,13 @@
   },
   "a5q6": {
     "id": "a5q6",
-    "name": "The Ravenous God",
+    "name": "貪欲な神",
     "act": "5",
     "reward_offers": {}
   },
   "a5q7": {
     "id": "a5q7",
-    "name": "Kitava's Torments",
+    "name": "キタヴァの苦悩",
     "act": "5",
     "reward_offers": {
       "a5q7": {
@@ -7978,13 +7978,13 @@
   },
   "a6q1": {
     "id": "a6q1",
-    "name": "The Brine King",
+    "name": "海水の王",
     "act": "6",
     "reward_offers": {}
   },
   "a6q2": {
     "id": "a6q2",
-    "name": "Essence of Umbra",
+    "name": "アンブラのエッセンス",
     "act": "6",
     "reward_offers": {
       "a6q2": {
@@ -8066,7 +8066,7 @@
   },
   "a6q3": {
     "id": "a6q3",
-    "name": "The Father of War",
+    "name": "戦争の父",
     "act": "6",
     "reward_offers": {
       "a6q3": {
@@ -8082,7 +8082,7 @@
   },
   "a6q4": {
     "id": "a6q4",
-    "name": "Fallen from Grace",
+    "name": "恩寵から見放されて",
     "act": "6",
     "reward_offers": {
       "a6q4": {
@@ -9759,7 +9759,7 @@
   },
   "a6q5": {
     "id": "a6q5",
-    "name": "Bestel's Epic",
+    "name": "ベストルの叙事詩",
     "act": "6",
     "reward_offers": {
       "a6q5": {
@@ -9799,7 +9799,7 @@
   },
   "a6q6": {
     "id": "a6q6",
-    "name": "The Puppet Mistress",
+    "name": "傀儡の女主人",
     "act": "6",
     "reward_offers": {
       "a6q6": {
@@ -9815,7 +9815,7 @@
   },
   "a6q7": {
     "id": "a6q7",
-    "name": "The Cloven One",
+    "name": "裂けし者",
     "act": "6",
     "reward_offers": {
       "a6q7": {
@@ -9831,7 +9831,7 @@
   },
   "a7q1": {
     "id": "a7q1",
-    "name": "The Master of a Million Faces",
+    "name": "無数の顔の支配者",
     "act": "7",
     "reward_offers": {
       "a7q1": {
@@ -9847,7 +9847,7 @@
   },
   "a7q2": {
     "id": "a7q2",
-    "name": "Essence of the Artist",
+    "name": "芸術家のエッセンス",
     "act": "7",
     "reward_offers": {
       "a7q2": {
@@ -9929,7 +9929,7 @@
   },
   "a7q3": {
     "id": "a7q3",
-    "name": "Web of Secrets",
+    "name": "秘密の蜘蛛の巣",
     "act": "7",
     "reward_offers": {
       "a7q3": {
@@ -9945,13 +9945,13 @@
   },
   "a7q4": {
     "id": "a7q4",
-    "name": "The Mother of Spiders",
+    "name": "蜘蛛の母",
     "act": "7",
     "reward_offers": {}
   },
   "a7q5": {
     "id": "a7q5",
-    "name": "The Silver Locket",
+    "name": "銀のロケット",
     "act": "7",
     "reward_offers": {
       "a7q5": {
@@ -9985,7 +9985,7 @@
   },
   "a7q6": {
     "id": "a7q6",
-    "name": "Kishara's Star",
+    "name": "キシャラの星",
     "act": "7",
     "reward_offers": {
       "a7q6": {
@@ -10001,13 +10001,13 @@
   },
   "a7q7": {
     "id": "a7q7",
-    "name": "Lighting the Way",
+    "name": "道を照らす",
     "act": "7",
     "reward_offers": {}
   },
   "a7q8": {
     "id": "a7q8",
-    "name": "In Memory of Greust",
+    "name": "グルーストの追悼",
     "act": "7",
     "reward_offers": {
       "a7q8": {
@@ -10044,7 +10044,7 @@
   },
   "a7q9": {
     "id": "a7q9",
-    "name": "Queen of Despair",
+    "name": "絶望の女王",
     "act": "7",
     "reward_offers": {
       "a7q9": {
@@ -10060,7 +10060,7 @@
   },
   "a8q1": {
     "id": "a8q1",
-    "name": "Essence of the Hag",
+    "name": "魔女のエッセンス",
     "act": "8",
     "reward_offers": {
       "a8q1": {
@@ -10130,19 +10130,19 @@
   },
   "a8q2": {
     "id": "a8q2",
-    "name": "Lunar Eclipse",
+    "name": "皆既月食",
     "act": "8",
     "reward_offers": {}
   },
   "a8q3": {
     "id": "a8q3",
-    "name": "Solar Eclipse",
+    "name": "皆既日食",
     "act": "8",
     "reward_offers": {}
   },
   "a8q4": {
     "id": "a8q4",
-    "name": "Reflection of Terror",
+    "name": "恐怖の影",
     "act": "8",
     "reward_offers": {
       "a8q4": {
@@ -10158,7 +10158,7 @@
   },
   "a8q5": {
     "id": "a8q5",
-    "name": "The Wings of Vastiri",
+    "name": "ヴァスティリの翼",
     "act": "8",
     "reward_offers": {
       "a8q5": {
@@ -10189,7 +10189,7 @@
   },
   "a8q6": {
     "id": "a8q6",
-    "name": "Love is Dead",
+    "name": "愛は死す",
     "act": "8",
     "reward_offers": {
       "a8q6": {
@@ -10205,7 +10205,7 @@
   },
   "a8q7": {
     "id": "a8q7",
-    "name": "The Gemling Legion",
+    "name": "ジェムリングの軍団",
     "act": "8",
     "reward_offers": {
       "a8q7": {
@@ -10221,13 +10221,13 @@
   },
   "a9q1": {
     "id": "a9q1",
-    "name": "Recurring Nightmare",
+    "name": "繰り返す悪夢",
     "act": "9",
     "reward_offers": {}
   },
   "a9q2": {
     "id": "a9q2",
-    "name": "The Ruler of Highgate",
+    "name": "ハイゲートの統治者",
     "act": "9",
     "reward_offers": {
       "a9q2": {
@@ -10243,7 +10243,7 @@
   },
   "a9q3": {
     "id": "a9q3",
-    "name": "The Storm Blade",
+    "name": "ストームブレード",
     "act": "9",
     "reward_offers": {
       "a9q3": {
@@ -10423,7 +10423,7 @@
   },
   "a9q4": {
     "id": "a9q4",
-    "name": "Fastis Fortuna",
+    "name": "運命のカレンダー",
     "act": "9",
     "reward_offers": {
       "a9q4": {
@@ -10439,7 +10439,7 @@
   },
   "a9q5": {
     "id": "a9q5",
-    "name": "Queen of the Sands",
+    "name": "砂漠の女王",
     "act": "9",
     "reward_offers": {
       "a9q5": {
@@ -10464,7 +10464,7 @@
   },
   "a10q1": {
     "id": "a10q1",
-    "name": "Safe Passage",
+    "name": "安全な通り道",
     "act": "10",
     "reward_offers": {
       "a10q1": {
@@ -10504,7 +10504,7 @@
   },
   "a10q2": {
     "id": "a10q2",
-    "name": "Death and Rebirth",
+    "name": "死と再生",
     "act": "10",
     "reward_offers": {
       "a10q2": {
@@ -10568,7 +10568,7 @@
   },
   "a10q3": {
     "id": "a10q3",
-    "name": "An End to Hunger",
+    "name": "飢えの終焉",
     "act": "10",
     "reward_offers": {
       "a10q3": {
@@ -10584,7 +10584,7 @@
   },
   "a10q4": {
     "id": "a10q4",
-    "name": "No Love for Old Ghosts",
+    "name": "年老いた亡霊は愛されない",
     "act": "10",
     "reward_offers": {
       "a10q4": {
@@ -10600,7 +10600,7 @@
   },
   "a10q5": {
     "id": "a10q5",
-    "name": "Map to Tsoatha",
+    "name": "ツォアーサへの地図",
     "act": "10",
     "reward_offers": {
       "a10q5": {
@@ -10631,7 +10631,7 @@
   },
   "a10q6": {
     "id": "a10q6",
-    "name": "Vilenta's Vengeance",
+    "name": "ヴァイレンタの復讐",
     "act": "10",
     "reward_offers": {
       "a10q6": {
@@ -10647,19 +10647,19 @@
   },
   "a10q3a11": {
     "id": "a10q3a11",
-    "name": "An End to Hunger",
+    "name": "飢えの終焉",
     "act": "11",
     "reward_offers": {}
   },
   "A11q0": {
     "id": "A11q0",
-    "name": "Toward the Future",
+    "name": "未来へ向かって",
     "act": "10",
     "reward_offers": {}
   },
   "a11q1": {
     "id": "a11q1",
-    "name": "A Call to Arms",
+    "name": "召集令",
     "act": "12",
     "reward_offers": {}
   },
